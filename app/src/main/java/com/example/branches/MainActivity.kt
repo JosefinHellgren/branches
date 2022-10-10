@@ -13,6 +13,8 @@ class MainActivity : AppCompatActivity() {
  //Nu ska jag börja programera
     // vi programerar lite
 
+//hallå hallå
     //hejsan hoppsan
+
 }
 
