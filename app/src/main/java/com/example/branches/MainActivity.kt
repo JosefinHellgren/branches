@@ -10,5 +10,6 @@ class MainActivity : AppCompatActivity() {
     }
 
  //nu ska vi börja programera
+    // vi programerar lite
 }
 
