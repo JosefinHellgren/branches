@@ -9,6 +9,9 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
     }
 
+
  //Nu ska jag börja programera
+    // vi programerar lite
+
 }
 
